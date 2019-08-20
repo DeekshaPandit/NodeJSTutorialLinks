@@ -6,3 +6,6 @@
   
 * Closure:
   https://www.quora.com/What-exactly-is-a-closure-in-JavaScript
+  
+* Regular and Arrow functions difference:
+  https://www.geeksforgeeks.org/difference-between-regular-functions-and-arrow-functions/
