@@ -9,3 +9,6 @@
   
 * Regular and Arrow functions difference:
   https://www.geeksforgeeks.org/difference-between-regular-functions-and-arrow-functions/
+  
+* Uncaught Exception:
+  https://shapeshed.com/uncaught-exceptions-in-node/
