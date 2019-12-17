@@ -4,6 +4,7 @@
 * Twelve Factor App: 
   https://12factor.net/
   
+* https://dev.to/embiem/auto-generate-sitemapxml-in-nextjs-2nh1
 * Closure:
   https://www.quora.com/What-exactly-is-a-closure-in-JavaScript
   
